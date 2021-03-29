@@ -12,6 +12,7 @@ Mikroservis mimarisini öğrenme amacıyla hazırladığım event-driven proje.
 - React
 - Next.js
 - MongoDb
+- Jest for testing
 
 ## Running
 
